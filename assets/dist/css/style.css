@@ -1,0 +1,15 @@
+.mr-3{
+    margin-left: 3px !important;
+    margin-top:  2px;
+}
+.mr-6{
+    margin-right: 6px !important;
+}
+.right {
+    float: right;
+}
+.inline-icon {
+    vertical-align: bottom;
+    font-size: 18px !important;
+}
+
